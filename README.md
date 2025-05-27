@@ -48,21 +48,35 @@ This repository tracks my learning progress during my 1-month data science inter
 | Random Forest & Model Evaluation | Not Started ⏳ | 06/10/25  |
 | KMeans Clustering             | Not Started ⏳ | 06/11/25  |
 | Feature Engineering, Pipelines & Tuning | Not Started ⏳ | 06/12/25  |
-| Project                      | Not Started ⏳ | 06/13/25  |
+| NLP Techniques                | Not Started ⏳ | 06/13/25  |
 
 ---
 
-## Week 5 – Advanced Data Science Topics (06/16/25 to 06/20/25)
+## Week 5 – Capstone Project: Fake News Detection (06/16/25 to 06/20/25)
 
-| Topic                       | Status      | Date      |
-|-----------------------------|-------------|-----------|
-| SQL for Data Analysis        | Not Started ⏳ | 06/16/25  |
-| Time Series Analysis & Feature Engineering | Not Started ⏳ | 06/17/25  |
-| Introduction to Deep Learning | Not Started ⏳ | 06/18/25  |
-| Natural Language Processing (NLP) | Not Started ⏳ | 06/19/25  |
-| Model Deployment             | Not Started ⏳ | 06/20/25  |
+| Topic            | Status      | Date      |
+|------------------|-------------|-----------|
+| Final Project: Fake News Detection on Political Statements | Not Started ⏳ | 06/16/25  |
 
----
+### Project Description
+
+I will apply the skills learned during weeks 1 to 4 in this end-to-end project:
+
+- Use Python fundamentals, data structures, and control flow for preprocessing logic  
+- Use Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, exploration, and visualization  
+- Implement NLP techniques such as TF-IDF to convert text into features  
+- Train and evaluate classical machine learning models using scikit-learn, including:  
+  - Logistic Regression  
+  - Naive Bayes  
+  - Random Forest  
+
+**Dataset:** LIAR dataset  
+**Dataset Details:**  
+- Contains 12,800+ labeled political statements from PolitiFact  
+- Labels: pants-fire, false, barely-true, half-true, mostly-true, true  
+- For binary classification, labels grouped as:  
+  - Fake (1): pants-fire, false, barely-true, half-true  
+  - Real (0): mostly-true, true  
 
 ## Notes
 
