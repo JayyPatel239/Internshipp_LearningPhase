@@ -21,8 +21,8 @@ This repository tracks my learning progress during my 1-month data science inter
 | Topic                     | Status      | Date      |
 |---------------------------|-------------|-----------|
 | NumPy Basics              | Completed ✅ | 05/26/25  |
-| Advanced NumPy            | In Progress 🚧 | 05/27/25  |
-| Pandas Basics & Operations| Not Started ⏳ | 05/28/25  |
+| Advanced NumPy            | Completed ✅ | 05/27/25  |
+| Pandas Basics & Operations| In Progress 🚧 | 05/28/25  |
 | Data Cleaning             | Not Started ⏳ | 05/29/25  |
 | Matplotlib & Seaborn Visuals | Not Started ⏳ | 05/30/25  |
 
