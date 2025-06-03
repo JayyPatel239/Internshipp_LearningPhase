@@ -23,8 +23,8 @@ This repository tracks my learning progress during my 1-month data science inter
 | NumPy Basics              | Completed ✅ | 05/26/25  |
 | Advanced NumPy            | Completed ✅ | 05/27/25  |
 | Pandas Basics & Operations| Completed ✅ | 05/28/25  |
-| Data Cleaning             | In Progress 🚧 | 05/29/25  |
-| Matplotlib & Seaborn Visuals | In Progress 🚧| 05/30/25  |
+| Data Cleaning             | Completed ✅| 05/29/25  |
+| Matplotlib & Seaborn Visuals | Completed ✅| 05/30/25  |
 
 ---
 
@@ -32,7 +32,7 @@ This repository tracks my learning progress during my 1-month data science inter
 
 | Topic                         | Status      | Date      |
 |-------------------------------|-------------|-----------|
-| Descriptive Statistics         | Not Started ⏳ | 06/02/25  |
+| Descriptive Statistics         |  In Progress 🚧 | 06/02/25  |
 | Probability Essentials & Hypothesis Testing | Not Started ⏳ | 06/03/25  |
 | Exploratory Data Analysis (EDA) Practice | Not Started ⏳ | 06/04/25  |
 | Machine Learning Basics + Scikit Learn | Not Started ⏳ | 06/05/25  |
@@ -52,11 +52,7 @@ This repository tracks my learning progress during my 1-month data science inter
 
 ---
 
-## Week 5 – Capstone Project: Fake News Detection (06/16/25 to 06/20/25)
 
-| Topic            | Status      | Date      |
-|------------------|-------------|-----------|
-| Final Project: Fake News Detection on Political Statements | Not Started ⏳ | 06/16/25  |
 
 ### Project Description
 
