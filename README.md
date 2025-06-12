@@ -33,10 +33,10 @@ This repository tracks my learning progress during my 1-month data science inter
 | Topic                         | Status      | Date      |
 |-------------------------------|-------------|-----------|
 | Descriptive Statistics         | Completed ✅ | 06/02/25  |
-| Probability Essentials & Hypothesis Testing | In Progress 🚧 | 06/03/25  |
-| Exploratory Data Analysis (EDA) Practice | In Progress 🚧 | 06/04/25  |
-| Machine Learning Basics + Scikit Learn |In Progress 🚧 | 06/05/25  |
-| Linear & Logistic Regression    |In Progress 🚧 | 06/06/25  |
+| Probability Essentials & Hypothesis Testing | Completed ✅ | 06/03/25  |
+| Exploratory Data Analysis (EDA) Practice |Completed ✅ | 06/04/25  |
+| Machine Learning Basics + Scikit Learn |Completed ✅ | 06/05/25  |
+| Linear & Logistic Regression    |Completed ✅ | 06/06/25  |
 
 ---
 
