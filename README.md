@@ -93,7 +93,8 @@ After evaluating the performance of the three classical machine learning models,
 ![image](https://github.com/user-attachments/assets/9b304993-c4bc-40c9-bc95-1b7d01f74178)
 
 You can view the full implementation of these classical models in the following Jupyter Notebook:  
-➡️ [Classical Models Implementation – `classical_models.ipynb`](./classical_models.ipynb)
+➡️ [Classical Models Implementation – `LIAR.ipynb`](./LIAR.ipynb)
+
 
 I have decided to implement a fine-tuned BERT model to improve the classification performance.
 
