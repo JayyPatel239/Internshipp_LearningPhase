@@ -44,11 +44,11 @@ This repository tracks my learning progress during my 1-month data science inter
 
 | Topic                        | Status      | Date      |
 |------------------------------|-------------|-----------|
-| KNN & Decision Trees          | Not Started ⏳ | 06/09/25  |
-| Random Forest & Model Evaluation | Not Started ⏳ | 06/10/25  |
-| KMeans Clustering             | Not Started ⏳ | 06/11/25  |
-| Feature Engineering, Pipelines & Tuning | Not Started ⏳ | 06/12/25  |
-| NLP Techniques                | Not Started ⏳ | 06/13/25  |
+| KNN & Decision Trees          | ✅ Completed | 06/09/25  |
+| Random Forest & Model Evaluation | ✅ Completed | 06/10/25  |
+| KMeans Clustering             |✅ Completed | 06/11/25  |
+| Feature Engineering, Pipelines & Tuning | ✅ Completed | 06/12/25  |
+| NLP Techniques                | ✅ Completed | 06/13/25  |
 
 ---
 
@@ -73,6 +73,9 @@ I will apply the skills learned during weeks 1 to 4 in this end-to-end project:
 - For binary classification, labels grouped as:  
   - Fake (1): pants-fire, false, barely-true, half-true  
   - Real (0): mostly-true, true  
+
+
+After Applying these three classical models i have got accuracy which are showned below ![image](https://github.com/user-attachments/assets/9b304993-c4bc-40c9-bc95-1b7d01f74178)
 
 ## Notes
 
