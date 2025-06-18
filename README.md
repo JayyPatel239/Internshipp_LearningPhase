@@ -115,7 +115,6 @@ I have decided to implement a fine-tuned BERT model to improve the classificatio
 Email: int-jay.k.patel@outamationlabs.com  
        22it094@charusat.edu.in
        jpatel23092004@gmail.com
----
 
 GitHub:(https://github.com/JayyPatel239/Internshipp_LearningPhase))
         (https://github.com/Jayypatell23)
