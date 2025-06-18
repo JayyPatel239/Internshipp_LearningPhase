@@ -51,6 +51,19 @@ This repository tracks my learning progress during my 1-month data science inter
 | NLP Techniques                | ✅ Completed | 06/13/25  |
 
 ---
+## Week 5 – BERT Model & Final Project (06/16/25 to 06/20/25)
+
+| Topic                                                                 | Status       | Date      |
+|-----------------------------------------------------------------------|--------------|-----------|
+| Load and preprocess dataset for deep learning                         | ✅ Completed  | 06/16/25  |
+| Clean and tokenize text using BERT tokenizer                          | ✅ Completed  | 06/17/25  |
+| Encode labels for binary classification (real vs. fake)               | ✅ Completed  | 06/17/25  |
+| Load pre-trained BERT model & prepare for fine-tuning (Hugging Face) | ✅ Completed  | 06/18/25  |
+| Fine-tune BERT model for fake news classification                     | ⏳ In Progress| 06/19/25  |
+| Evaluate performance: accuracy, precision, recall, F1-score           | ⏳ Planned    | 06/20/25  |
+| Plot confusion matrix & compare with traditional ML models            | ⏳ Planned    | 06/20/25  |
+
+---
 
 
 
@@ -75,7 +88,14 @@ I will apply the skills learned during weeks 1 to 4 in this end-to-end project:
   - Real (0): mostly-true, true  
 
 
-After Applying these three classical models i have got accuracy which are showned below ![image](https://github.com/user-attachments/assets/9b304993-c4bc-40c9-bc95-1b7d01f74178)
+After evaluating the performance of the three classical machine learning models, which resulted in comparatively lower accuracies as shown in the chart below:
+
+![image](https://github.com/user-attachments/assets/9b304993-c4bc-40c9-bc95-1b7d01f74178)
+
+You can view the full implementation of these classical models in the following Jupyter Notebook:  
+➡️ [Classical Models Implementation – `classical_models.ipynb`](./classical_models.ipynb)
+
+I have decided to implement a fine-tuned BERT model to improve the classification performance.
 
 ## Notes
 
