@@ -1,4 +1,4 @@
-# Jay Patel – 1 Month Data Science Internship Plan
+# Jay Patel – 1 Month  Internship Plan
 
 This repository tracks my learning progress during my 1-month data science internship.
 
